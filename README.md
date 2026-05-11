@@ -116,7 +116,10 @@ All benchmarks were conducted on **Ubuntu 24.04 LTS via WSL2** on Windows 11. WS
 
 ## Citation
 
-If you use this code or data, please cite:---
+If you use this code or data, please cite: [Destiny Chilaka], "WebAssembly as a Universal Execution Runtime: Performance,
+Security, and Portability for Next-Generation Software Systems," in Proc.
+2026 IEEE International Conference on Computing Technology (ICCOMTECH),
+University of Uyo, Nigeria, Sep. 2026.
 
 ## License
 
